@@ -1,0 +1,6 @@
+framework module Pods_HighlightCards {
+  umbrella header "Pods-HighlightCards-umbrella.h"
+
+  export *
+  module * { export * }
+}
